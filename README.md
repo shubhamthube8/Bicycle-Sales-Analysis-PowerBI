@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on analyzing bicycle sales data using Microsoft Power BI. The dashboard provides insights into sales performance, profitability, product performance, and geographical sales distribution.
 ## Dashboard Preview
-![Bicycle Sales Dashboard](bicycle-sales-dashboard.png)
+![Bicycle Sales Dashboard](Bicycle%20Sales%20Dashboard.png)
 ## Project Objectives
 - Analyze overall bicycle sales performance.
 - Identify profitable products.
